@@ -8,20 +8,6 @@
 - 🌱 I’m currently learning **Data Science, Generative AI**
 
 - 📫 How to reach me **prhashanthkisshan@gmail.com**
-Ai Variant, Remote Nov 2023 - Feb 2024
-Data Scientist Intern
-• Wrote robust Python code to develop an oil price prediction model, effectively tackling complex issues and improving
-operational efficiency by 20%.
-• Conducted deep data analysis using public datasets, uncovering valuable insights that enhanced decision-making
-processes.
-• Collaborated with researchers, effectively communicating insights and findings to refine models and strategies.
-Salesforce, Remote Apr 2023 - May 2023
-Salesforce Developer Intern
-• Automated business processes and integrated Salesforce with external systems. Enhanced user interfaces using Light-
-ning Web Components (LWC) and contributed to the development and testing of Salesforce applications for improved
-quality.
-• Implemented Salesforce automation and system integrations.
-• Developed advanced user interfaces with Lightning Web Components (LWC).
 
 <div> <a href="https://github.com/Prasanth-Junnada" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ahy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
