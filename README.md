@@ -8,7 +8,19 @@
 - 🌱 I’m currently learning **Data Science, Generative AI**
 
 - 📫 How to reach me **prhashanthkisshan@gmail.com**
-- 📄 Know about my experiences ****
+%Experience
+\section{Work Experience}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{{Ai Variant, Remote}} \hfill \color[HTML]{371e77} Nov 2023 - Feb 2024 \\[4pt]
+\color[HTML]{371e77}\textbf{\textit{Data Scientist Intern}}\ \hfill \color[HTML]{4B28A4} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item Wrote robust Python code to develop an oil price prediction model, effectively tackling complex issues and improving operational efficiency by 20\%.
+        \item Conducted deep data analysis using public datasets, uncovering valuable insights that enhanced decision-making processes.
+        \item Collaborated with researchers, effectively communicating insights and findings to refine models and strategies.
+    \end{itemize}
+\end{minipage}
+\end{tabularx}
 
 <div> <a href="https://github.com/Prasanth-Junnada" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ahy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
